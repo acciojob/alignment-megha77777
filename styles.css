@@ -3,9 +3,25 @@ table, td{
 	border: 1px solid black;
 	border-collapse:collapse;
 }
+td{
+	padding:1px;
+}
 .center{
 	text-align:center;
 }
 .right{
 	text-align:right;
+}
+.green{
+	background-color:green;
+	height:20px;
+}
+.blue{
+	background-color:blue;
+	height:20px;
+}
+.center-img{
+	width:50%;
+	display:block;
+	margin:auto;
 }
